@@ -1,0 +1,17 @@
+{
+    "name": "marco/test",
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "Src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "spindola001",
+            "email": "marcos.spindola001@gmail.com"
+        }
+    ]
+}
